@@ -1,9 +1,8 @@
 name: EntityEditor
-main: skh6075\entityeditor\EntityEditorLoader
-author: AvasKr
+main: skh6075\entityeditor\Loader
 version: 1.0.0
-api: 3.10.0
-website: https://github.com/GodVas
+api: 4.0.0
+website: https://github.com/skh6075
 
 permissions:
   entity.editor.permission:
